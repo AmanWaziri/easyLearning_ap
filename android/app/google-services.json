@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795069677485",
+    "project_id": "easylearning-app",
+    "storage_bucket": "easylearning-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795069677485:android:7a6d805af40572fd6eab24",
+        "android_client_info": {
+          "package_name": "com.codeWithAman.easylearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVqJeJrK270_NXCtQ2tvX-BYuH_G5xRc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
